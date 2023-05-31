@@ -1,0 +1,51 @@
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\bin\Debug\ChaseupPOS2.exe.config
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\bin\Debug\ChaseupPOS2.exe
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\bin\Debug\ChaseupPOS2.pdb
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.AssemblyReference.cache
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.SuggestedBindingRedirects.cache
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.frmAddCategory.resources
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.frmLogin.resources
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.frmMain.resources
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.Properties.Resources.resources
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.GenerateResource.cache
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.CoreCompileInputs.cache
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.exe
+E:\university documments\4th semester\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.pdb
+G:\visual programming\CSharp Programms\ChaseupPOS\bin\Debug\ChaseupPOS2.exe.config
+G:\visual programming\CSharp Programms\ChaseupPOS\bin\Debug\ChaseupPOS2.exe
+G:\visual programming\CSharp Programms\ChaseupPOS\bin\Debug\ChaseupPOS2.pdb
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.AssemblyReference.cache
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.SuggestedBindingRedirects.cache
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.frmAddCategory.resources
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.frmLogin.resources
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.frmMain.resources
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.Properties.Resources.resources
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.GenerateResource.cache
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.CoreCompileInputs.cache
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.exe
+G:\visual programming\CSharp Programms\ChaseupPOS\obj\Debug\ChaseupPOS2.pdb
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\bin\Debug\ChaseupPOS2.exe.config
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\obj\Debug\ChaseupPOS2.exe
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\obj\Debug\ChaseupPOS2.pdb
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\obj\Debug\ChaseupPOS2.csprojResolveAssemblyReference.cache
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\obj\Debug\ChaseupPOS2.frmAddCategory.resources
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\obj\Debug\ChaseupPOS2.frmAddProduct.resources
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\obj\Debug\ChaseupPOS2.frmLogin.resources
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\obj\Debug\ChaseupPOS2.frmMain.resources
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\obj\Debug\ChaseupPOS2.Properties.Resources.resources
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.GenerateResource.Cache
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\bin\Debug\ChaseupPOS2.exe
+G:\visual programming\VS 2015\ChaseupPOS\ChaseupPOS\bin\Debug\ChaseupPOS2.pdb
+C:\Users\Zeeshan\Downloads\ChaseupPOS\bin\Debug\ChaseupPOS2.exe.config
+C:\Users\Zeeshan\Downloads\ChaseupPOS\bin\Debug\ChaseupPOS2.exe
+C:\Users\Zeeshan\Downloads\ChaseupPOS\bin\Debug\ChaseupPOS2.pdb
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.AssemblyReference.cache
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.frmAddCategory.resources
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.frmAddProduct.resources
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.frmLogin.resources
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.frmMain.resources
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.Properties.Resources.resources
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.GenerateResource.cache
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.exe
+C:\Users\Zeeshan\Downloads\ChaseupPOS\obj\Debug\ChaseupPOS2.pdb
